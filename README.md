@@ -3,4 +3,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Projects
 
-* [Проект 0. Игра угадай число]()
+* [Проект 0. Игра угадай число](https://github.com/OBRIGS/sf_data_science/tree/main/project_0)
